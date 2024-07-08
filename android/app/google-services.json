@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "421342593577",
+    "firebase_url": "https://byjus-f904b-default-rtdb.firebaseio.com",
+    "project_id": "byjus-f904b",
+    "storage_bucket": "byjus-f904b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421342593577:android:ab76aabafc487413df9238",
+        "android_client_info": {
+          "package_name": "com.byjus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-XZZ8eVwbiP8L6ExRvUFIavLfDsRGmEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
